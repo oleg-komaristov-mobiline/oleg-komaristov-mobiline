@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Statistic
+
+https://raw.githubusercontent.com/oleg-komaristov-mobiline/stats/master/generated/overview.svg?token=AOVW6TWPHC4657FZILJYMPK73FQXQ
