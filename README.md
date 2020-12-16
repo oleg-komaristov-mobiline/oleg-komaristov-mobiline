@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **oleg-komaristov-mobiline/oleg-komaristov-mobiline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 
 ## Statistic
 
-https://raw.githubusercontent.com/oleg-komaristov-mobiline/stats/master/generated/overview.svg?token=AOVW6TWPHC4657FZILJYMPK73FQXQ
+![Stats](https://raw.githubusercontent.com/oleg-komaristov-mobiline/stats/master/generated/overview.svg)
