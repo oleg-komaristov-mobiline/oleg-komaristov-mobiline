@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ## Statistic
 
-![Stats](https://raw.githubusercontent.com/oleg-komaristov-mobiline/stats/master/generated/overview.svg)
+<!-- ![Stats](https://raw.githubusercontent.com/oleg-komaristov-mobiline/stats/master/generated/overview.svg) -->
